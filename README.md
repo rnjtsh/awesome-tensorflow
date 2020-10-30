@@ -224,7 +224,7 @@ More info [here](http://tensorflow.org).
 
 Your contributions are always welcome!
 
-If you want to contribute to this list (please do), send me a pull request or contact me [@jtoy](https://twitter.com/jtoy)
+If you want to contribute to this list (please do), send me a pull request or contact me. [@jtoy](https://twitter.com/jtoy)
 Also, if you notice that any of the above listed repositories should be deprecated, due to any of the following reasons:
 
 * Repository's owner explicitly say that "this library is not maintained".
